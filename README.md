@@ -1,10 +1,12 @@
 # strawberryProject
 
-react-native project
+react-native project for ios
 
-use
- react-native
- redux
+# use
+
+react-native
+redux
  
-use api
- connpass api
+# use api
+
+connpass api
